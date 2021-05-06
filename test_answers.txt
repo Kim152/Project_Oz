@@ -1,0 +1,7 @@
+
+character('Harry Potter'
+'Est-ce que c\'est une fille ?':false
+'A-t-il des cheveux noirs ?':true
+'Porte-t-il des lunettes ?':true
+'A-t-il des cheveux roux ?':false
+)
